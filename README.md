@@ -1,1 +1,1 @@
-# excelFileUtil
+엑셀 파일을 관리하는 유틸리티
